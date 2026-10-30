@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Office lock files
+~$*
+
+# Generated while running the demo (chunks, manifests, rebuilt files)
+shared/
+share/
+peer-*/
+demo-*/
+received*
+
+# Scratch files from local test runs
+demo.txt
+template-inspect.ndjson
+
+# Report and slide build workspace
+work/

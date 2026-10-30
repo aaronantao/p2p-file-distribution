@@ -1,0 +1,5 @@
+This is a small demonstration file for the Peer-to-Peer File Distribution System.
+
+Each peer verifies its chunks and begins seeding them immediately after download.
+Use any larger PDF, ZIP, image, or video file for a more visible transfer demo.
+ james
